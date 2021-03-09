@@ -325,7 +325,7 @@ a:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-    background: transparent;
+   
 }
 
 .navbar-toggle {
@@ -334,7 +334,7 @@ a:hover {
 }
 
 .navbar-toggle:hover {
-    background: transparent!important;
+   
 }
 
 .navbar-toggle .icon-bar {
