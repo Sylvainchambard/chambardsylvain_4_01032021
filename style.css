@@ -275,7 +275,8 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 32px;
+    background-color: #2a2d2f;
+    border-radius: 50%;
 }
 
 .navbar {
