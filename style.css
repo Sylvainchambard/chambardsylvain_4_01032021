@@ -718,7 +718,7 @@ h3 {
 }
 
 h1 {
-    color: #333333;
+    color: #ffffff;
 }
 
 h4 {
@@ -774,6 +774,10 @@ footer .white {
 
 .tc-white {
     color: #F3976C;
+}
+
+.text {
+    color: white;
 }
 
 .btn-atomic-tangerine {
