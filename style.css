@@ -693,6 +693,11 @@ a {
     font-size: x-large;
 }
 
+.socila:hover {
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
 h2 {
     font-size: 28px;
     line-height: 1.4em;
@@ -724,7 +729,9 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
+footer .white {
+    color: #000;
+}
 .white {
     color: #FFFFFF;
     font-size: 16px;
@@ -771,7 +778,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .btn-atomic-tangerine:hover {
