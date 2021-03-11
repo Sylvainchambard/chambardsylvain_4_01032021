@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-  /*  outline: none;*/
+    outline: initial;
 }
 
 a:hover {
@@ -275,10 +275,6 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-1-hero h1 {
-
-}
-
 .navbar {
     margin-bottom: 0;
     z-index: 1;
@@ -324,18 +320,9 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
-.nav > li a:focus {
-   
-}
-
 .navbar-toggle {
     margin: 10px 10px 0 0;
     border: 0px;
-}
-
-.navbar-toggle:hover {
-   
 }
 
 .navbar-toggle .icon-bar {
@@ -451,11 +438,11 @@ nav .caret {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
-/*
+
 button {
-    outline: none;
+    outline: initial;
 }
-*/
+
 .btn-rd {
     border-radius: 40px;
 }
@@ -810,10 +797,6 @@ footer .white {
 .icon-dark-slate-blue {
     color: #364577;
     border-color: #364577;
-}
-
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
