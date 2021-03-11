@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none;
+  /*  outline: none;*/
 }
 
 a:hover {
@@ -451,11 +451,11 @@ nav .caret {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
-
+/*
 button {
     outline: none;
 }
-
+*/
 .btn-rd {
     border-radius: 40px;
 }
